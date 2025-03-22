@@ -165,14 +165,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 📧 Contact
 
-For questions or feedback, feel free to reach out:
-
-- Email: [divithselvam23@gmail.com](mailto:divithselvam23@gmail.com)
-- GitHub: [@Divith123](https://github.com/Divith123)
-
----
 
 ### 🌟 Show Your Support
 
